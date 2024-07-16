@@ -18,8 +18,7 @@ This project aims to analyze and predict movie revenues using various machine le
 - [SHAP Analysis](#shap-analysis)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Dataset
 
